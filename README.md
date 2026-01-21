@@ -5,7 +5,7 @@ This game is super fun and you should play it!!!!
 
 all knowledge gained by trial and error, so please report bugs in the issues section!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-**how do download**
+# how do download
 
 1. click code
 
